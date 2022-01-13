@@ -1,0 +1,19 @@
+
+**By the end of this tutorial, you will understand Python better by being able to use Python to:**
+
+1. Check overall frequency of total messages on the group.
+
+2. Check top 10 most active days of messaging.
+
+3. Check top 10 active users in the group.
+
+4. Fing out the ghosts/inactive members the in the group.
+
+5. Check Top 10 Users Most Sent Media, Total Messages, Average Words Per Messsage.
+
+7. Most active hours of the days.
+
+3. Most active Days of the Month
+9. Most active months of the year.
+9. Create a WordCloud for the most used words.
+6. Check top 10 most used emojis.
